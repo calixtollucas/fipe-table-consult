@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/calixtollucas/fipe-table-consult?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/calixtollucas/fipe-table-consult?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iurcalixtollucas/fipe-table-consult?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/calixtollucas/fipe-table-consult?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/calixtollucas/fipe-table-consult?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/calixtollucas/fipe-table-consult?style=for-the-badge)
 
@@ -13,7 +13,7 @@
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão 17 ou superior do Java e a mais recente do Maven
-- Você tem uma máquina Windows / Linux / Mac. Indique qual sistema operacional é compatível / não compatível.
+- Você tem uma máquina Windows / Linux / Mac.
 - Você leu este README.
 
 ## ☕ Usando FIPE Table Consult
